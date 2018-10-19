@@ -82,12 +82,13 @@ int main()
 ```
 
 ## Output:
-
+```
 Hello World!  
 Hello! I am a character. My value is G and my size is 1 byte.  
 Hello! I am an integer. My value is 1 and my size is 4  bytes.  
 Hello! I am a double floating point variable. My value is 3.140000 and my size is 8 bytes.  
 Bye! See you soon. :)
+```
 
 ## The Void type
 The void type specifies that no value is available. It is used in three kinds of situations:
